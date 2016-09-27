@@ -24,6 +24,8 @@ class ViewController: UIViewController {
         // Test if I can push with XCode
         
         // XCode Failed to do a pull or a push but it worked with SourceTree
+        
+        // After successful pull and push with Source Tree XCode can now push
     }
 
     override func didReceiveMemoryWarning() {
